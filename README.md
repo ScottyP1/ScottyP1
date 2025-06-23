@@ -35,64 +35,50 @@
 </p>
 
 ---
-
 <h3 align="left">🛠️ Languages & Tools</h3>
-<!-- Custom style for icons -->
-<style>
-  .tool-icon {
-    margin: 10px;
-    transition: transform 0.2s ease-in-out;
-  }
-  .tool-icon:hover {
-    transform: scale(1.2);
-  }
-</style>
 
 <p align="left">
-  <!-- Row 1 -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 10px;" />
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 10px;" />
   </a>
 </p>
 
 <p align="left">
-  <!-- Row 2 -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 10px;" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin: 10px;" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="margin: 10px;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin: 10px;" />
   </a>
 </p>
 
 <p align="left">
-  <!-- Row 3 -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://custom-icon-badges.demolab.com/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white&labelColor=black" alt="Express" height="40" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Express.js-black?style=flat-square&logo=express&logoColor=white&labelColor=black" alt="Express" height="40" style="margin: 10px;" />
   </a>
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" width="40" height="40" style="margin: 10px;" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 10px;" />
   </a>
   <a href="https://postman.com/" target="_blank" rel="noreferrer">
-    <img class="tool-icon" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 10px;" />
   </a>
 </p>
 
