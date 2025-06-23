@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cody Scott</h1>
-<h3 align="center">A passionate Full-Stack Developer from Falling Waters, WV</h3>
+### A passionate Full-Stack Developer from Falling Waters, WV
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=scottyp1&label=Profile%20views&color=0e75b6&style=flat" alt="scottyp1" />
@@ -24,34 +23,67 @@
 
 <p align="left">
   <a href="https://dev.to/scottyp1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://linkedin.com/in/scottyyp1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://www.youtube.com/c/@scotty_p12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="50" height="50" style="margin: 10px;" />
   </a>
 </p>
 
 ---
+
 ### 🛠️ Languages & Tools
 
-| Frontend | Backend | Database | Tools |
-|---------|---------|----------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" /> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" /> | <img src="https://custom-icon-badges.demolab.com/badge/Express.js-black?style=flat-square&logo=express&logoColor=white&labelColor=black" width="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" /> | &nbsp; | <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" width="48" /> |
-| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" /> | &nbsp; | &nbsp; | &nbsp; |
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.demolab.com/badge/Express.js-black?style=flat-square&logo=express&logoColor=white&labelColor=black" alt="Express" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60" style="margin: 10px;" />
+  </a>
+</p>
 
-
+---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scottyp1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scottyp1&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin: 10px;" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=scottyp1&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=scottyp1&show_icons=true&locale=en" alt="GitHub Stats" style="margin: 10px;" />
 </p>
