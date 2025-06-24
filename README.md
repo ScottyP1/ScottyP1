@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cody Scott</h1>
+<h2 align="center">United States Navy Air Rescue Veteran</h2>
 <h3 align="center">A passionate Full-Stack Developer from Falling Waters, WV</h3>
 
 <p align="center">
