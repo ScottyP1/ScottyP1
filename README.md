@@ -17,9 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently attending **CodePlatoon's Full-Stack Software Engineering Bootcamp**
-- 💼 All of my projects are available at:  
-  👉 [https://vercel.com/cody-scotts-projects](https://vercel.com/cody-scotts-projects)
-- 📫 Reach me at: **codymoto122@gmail.com**
+- 📫 Reach me at: **codymoto122@gmail.com** ** (301) 997-4575
 
 ---
 
