@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently attending **CodePlatoon's Full-Stack Software Engineering Bootcamp**
-- 📫 Reach me at: **codymoto122@gmail.com** ** (301) 997-4575
+- 📫 Reach me at: **codymoto122@gmail.com**  (301) 997-4575
 
 ---
 
