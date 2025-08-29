@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/ScottyP1/portfolio/blob/main/public/homeBg.png
+  <img src="[https://github.com/ScottyP1/portfolio/blob/main/public/homeBg.png](https://github.com/ScottyP1/portfolio/raw/main/public/homeBg.png
+)
 " alt="Cody Scott Banner" width="100%" />
 </p>
 <h1 align="center">Hey there 👋, I'm Cody Scott</h1>
