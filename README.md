@@ -21,7 +21,7 @@
 - 🧩 Lifelong problem solver & self-driven learner  
 - 🎓 Currently leveling up at **CodePlatoon's Full-Stack Software Engineering Bootcamp**
 - 🌟 Always building, tinkering, and shipping ideas
-- 📬 **Reach me anytime:** `codymoto122@gmail.com` | 📱 **(301) 997-4575**
+- 📬 **Reach me anytime:** `cody.l.scott@outlook.com` | 📱 **(301) 997-4575**
 
 ---
 
