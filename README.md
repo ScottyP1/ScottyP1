@@ -2,7 +2,7 @@
   <img src="https://github.com/ScottyP1/portfolio/raw/main/public/homeBg.png" alt="Cody Scott Banner" width="100%" />
 </p>
 <h1 align="center">Hey there 👋, I'm Cody Scott</h1>
-<h2 align="center">🇺🇸 Navy Veteran | 🖥️ Full-Stack Developer | ⚡ Builder of Ideas</h2>
+<h2 align="center">US Navy Veteran | 🖥️ Full-Stack Developer | ⚡ Builder of Ideas</h2>
 <h3 align="center">Crafting meaningful software from Falling Waters, WV</h3>
 
 <p align="center">
