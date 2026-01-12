@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ScottyP1/portfolio/raw/main/public/homeBg.png" alt="Cody Scott Banner" width="100%" />
+  <!-- <img src="https://github.com/ScottyP1/portfolio/raw/main/public/homeBg.png" alt="Cody Scott Banner" width="100%" /> -->
   
   <img src="https://github.com/ScottyP1/portfolio/blob/main/src/assets/images/homeBg.png" alt="Cody Scott Banner" width="100%" />
 </p>
